@@ -1,0 +1,19 @@
+{
+  "name": "lib-whmcs-api",
+  "version": "0.0.1",
+  "description": "NodeJS lib-whmcs-api can Read the whmcs api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/direktspeed/lib-whmcs-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/direktspeed/lib-whmcs-api/issues"
+  },
+  "homepage": "https://github.com/direktspeed/lib-whmcs-api#readme"
+}
