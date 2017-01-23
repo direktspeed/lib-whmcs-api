@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/direktspeed/lib-whmcs-api/issues"
   },
-  "homepage": "https://github.com/direktspeed/lib-whmcs-api#readme"
+  "homepage": "https://github.com/direktspeed/lib-whmcs-api#readme",
+  "dependencies": {
+    "qs": "^6.3.0"
+  }
 }
